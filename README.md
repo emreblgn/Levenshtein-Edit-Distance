@@ -33,7 +33,12 @@ Hash tablosunda sorgulanan satırdaki en küçük değer 3 ise alt satırlara gi
 
 Örneğin yukarıdaki tablonun 4. satırındaki en küçük değer 3 olduğundan altta kalan satırların kontrolüne gerek kalmadan kelimelerin mesafelerinin ölçülmesi sonlandırılabilir.
 
+**Örnek Girdi ve Çıktılar**
 
+![](/images/input-1.png)
 
+![](/images/input-2.png)
+
+![](/images/input-3.png)
 
 
